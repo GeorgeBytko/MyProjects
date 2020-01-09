@@ -1,2 +1,2 @@
-# MytProjects
+# MyProjects
 description

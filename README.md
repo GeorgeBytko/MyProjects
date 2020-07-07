@@ -1,2 +1,2 @@
 # MyProjects
-description
+Верстка макетов
